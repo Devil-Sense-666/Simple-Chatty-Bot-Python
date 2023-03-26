@@ -1,1 +1,1 @@
-# Simple-Chattyu-Bot-Python-
+# Simple-Chatty-Bot-Python-
